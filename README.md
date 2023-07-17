@@ -21,4 +21,3 @@
 > ***VKontakte***: [`@radmirlee`](https://vk.com/radmirlee)
 >
 > ***Steam***:  [`@ryanshelby`](https://steamcommunity.com/id/ryanshelby/)
-
