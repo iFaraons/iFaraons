@@ -1,8 +1,7 @@
-# Information board
-
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Information Board</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Welcome to the official profile of the author Ryan Shelby, the main information about the author himself will be presented here and if you want to contact me, then there are my contacts below</h3>
+<h1></h1>
 
 ### 🏳️ Country
 > [`Russian Federation`](https://www.youtube.com/watch?v=OvkOOxklAKE)
@@ -26,3 +25,11 @@
 > ***VKontakte***: [`@radmirlee`](https://vk.com/radmirlee)
 >
 > ***Steam***:  [`@ryanshelby`](https://steamcommunity.com/id/ryanshelby/)
+<h1></h1>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iFaraons&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iFaraons&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFaraons)](https://github.com/anuraghazra/github-readme-stats)
+<h1></h1>
+
+![](https://komarev.com/ghpvc/?username=your-github-iFaraons)
