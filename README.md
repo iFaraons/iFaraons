@@ -1,4 +1,4 @@
-# Ryan Shelby
+# Information board
 - Jun. Developer and Entepriser
 - Programming languages: Lua, Python
 - Russian Federation
